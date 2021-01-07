@@ -1,0 +1,74 @@
+body{font-family:"Open Sans","Segoe UI","Microsoft Yahei UI",sans-serif;line-height:1.35em}
+c{display:block;font-size:1.35em;font-weight:700}
+brr,s,rw,sa,sb,sa>def{display:block;text-decoration:none}
+h{font-weight:700}
+x{font-style:italic;color: #009688;font-family:Lora,Georgia,serif}
+spp{margin-left:-7px;margin-right:3px}
+eg x, eg en {color:#369;font-style:italic;}
+zh, cn{font-family:"Segoe UI","Microsoft Yahei UI",sans-serif;font-style:normal}
+exp eg{display:block;font-family:"Lora",Georgia,sans-serif;font-size:1rem}
+exp eg en {display:block}
+exp eg:before{color:#369;position:absolute;left:-.7em;content:"\2022"}
+ori,orx{color:slategray; font-size: 14px;}
+phr{display:block;margin-bottom:.5em}
+sb,sc,exp{display:block}
+phr sa+sa,sa>def{margin-bottom:.5em;margin-left:1.35em}
+sb,sc{margin-bottom:.5em}
+exp{margin-left:.8em}
+sqn,sqa,sq1{font-weight:700;color:#f15a25}
+sqn{position:absolute;left:.6em;font-size:.9em}
+rw{display:block;/*font-size:14px;*/margin:0}
+exp{font-style:normal;color:slategray;position:relative;font-size:.9rem}
+pho{color:#ff4500;font-family:"Segoe UI","Tahoma",sans-serif}
+pd{color:#002653}
+phr sa{display:inline}
+cnx,cny,cnz{display:none}
+ori x{color:inherit}
+rw.usage{border:1px solid #06c;border-radius: 3px;padding:.4em;margin:.5em 0}
+div.t{font-weight:700}
+sub,sup{line-height:100%;font-size:60%}
+g{color:teal;font-style:normal;font-family:"Open Sans","Segoe UI","Microsoft Yahei UI",sans-serif}
+a{font-variant:small-caps;text-decoration:none;color:#06c;text-transform:lowercase;font-weight:700}
+gg{color:navy}
+gs{color:#06a}
+eps {display:block}
+epx {color:teal}
+epx x{color:inherit}
+phd::before {
+    content: "Phrases & Derivatives";
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    display: inline-block;
+    background-color: darkred;
+    padding-left: .2em;
+    padding-right:  .2em;
+    margin-bottom: .6em;
+    margin-top: .7em;
+    border-radius: 3px;
+    /*border-bottom: 1px dashed;*/
+    /*padding-bottom: 2px;*/
+    /*margin-bottom: .5em;*/
+}
+prx x {
+    color: white;
+    /*font-style: initial;
+    font-family: Arial;*/
+    font-size: 15px;
+    background-color: darkred;
+    padding-left: .2em;
+    padding-right:  .2em;
+    border-radius: 3px;
+}
+sb prx x {
+    /* color: teal; */
+    color: green;
+    font-style: italic;
+    font-family: ;
+    background-color: transparent;
+}
+phr prx x {
+    color:green;
+    background-color: transparent;
+    
+}
